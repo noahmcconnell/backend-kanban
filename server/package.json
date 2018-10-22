@@ -18,5 +18,9 @@
     "express": "^4.16.3",
     "express-session": "^1.15.0",
     "mongoose": "^4.13.17"
-  }
+  },
+  "engines" : { 
+    "node" : ">=6.9.3",
+    "npm" : "~2.15.9" 	
+    }
 }
